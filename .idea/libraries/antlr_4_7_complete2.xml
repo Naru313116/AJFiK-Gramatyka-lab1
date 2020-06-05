@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="antlr-4.7-complete2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/antlr-4.7-complete.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/asm-5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/asm-util-5.2.jar!/" />
+      <root url="file://$PROJECT_DIR$" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/Grammar/gen" />
+      <root url="file://$PROJECT_DIR$/src" />
+    </SOURCES>
+  </library>
+</component>
